@@ -4,29 +4,32 @@ https://github.com/Statikman619/Code-Refractor
 https://statikman619.github.io/Code-Refractor/
 
 
-![Screenshot 2021-03-11 213544](https://user-images.githubusercontent.com/73040685/116795567-d9219e80-aa8a-11eb-8f1d-de3b75da7932.png)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ## Table of Contents
+* [Title](#Title)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Test](#test)
+* [Username](#username)
+* [Email](#license)
+
+## Description
+For this project we had to modify starter code to make the site we're working on functional.
+## Installation 
+No installs required for this project.
+## Usage 
+Right click on your VSCode and open in default browser to run the page.
+## License MIT
+## Contributors
+Mike with the help of Herm, Elma, Joey during office hours and my awesome tutor Andrew.
+## Test
+no tests needed at this time.
+## Questions
+Contact me:
+Github:[Statikman619](https://github.com/Statikman619)
+Email:[martinez.michael02@gmail.com](https://github.com/Statikman619)
 
 
-
-
-MIT License
-
-Copyright (c) [year] [fullname]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+![Screenshot 2021-03-11 213544](https://user-images.githubusercontent.com/73040685/128808255-04a3a740-4467-48c2-a280-df33c776b4fa.png)
