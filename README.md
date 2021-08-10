@@ -16,7 +16,8 @@ https://statikman619.github.io/Code-Refractor/
 * [Email](#license)
 
 ## Description
-For this project we had to modify starter code to make the site we're working on functional.
+For this project we had to modify starter code that we were given to make the site we're working on functional. We had to fix
+certain bugs to make the site run properly.
 ## Installation 
 No installs required for this project.
 ## Usage 
